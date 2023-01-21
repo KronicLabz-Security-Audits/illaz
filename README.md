@@ -1,4 +1,4 @@
-# illaz
+# illazNFT
 Rug Rescue 🛟 contract
 
 
